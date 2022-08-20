@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6285706735450'] 
-global.mods = ['6285706735450'] 
+global.owner = ['6281324484634'] 
+global.mods = ['6281324484634'] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = ' verdihatoru dia si buaya darat'
-global.numberowner = '6285706735450'
-global.instagram = 'https://instagram.com/'
-global.github = 'https://github.com/verdihatorou'
-global.dana = ''
-global.pulsa = ''
-global.gopay = ''
+global.nameowner = 'M.Sultan'
+global.numberowner = '6281324484634'
+global.instagram = 'https://instagram.com/sultan'
+global.github = 'https://github.com/Sultan'
+global.dana = '081324484634'
+global.pulsa = '081324484634'
+global.gopay = '081324484634'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Xziro'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'hp' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'AzuzaBot'
+global.gc = 'https://chat.whatsapp.com/JsBdxd0ViTyAUvcUjgEox'
+global.web = 'htps://instagram.com/sultan' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.
 global.fotonya2 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© xziro'
+global.wm = '© AzuzaBot'
 global.watermark = wm
-global.wm2 = '⫹⫺ xziro'
-global.wm3 = '© xziro'
+global.wm2 = '⫹⫺ AzuzaBot'
+global.wm3 = '© AzuzaBot'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -38,7 +38,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp'
+global.author = 'AzuzaBot'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
